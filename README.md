@@ -1,16 +1,50 @@
-# React + Vite
+<img width="1920" height="3917" alt="image" src="https://github.com/user-attachments/assets/cbdcfae4-a53c-4f5c-9200-8aefcb7dbc47" /><img width="1920" height="3917" alt="image" src="https://github.com/user-attachments/assets/829cc538-a25e-49ba-929b-b7a1a7f400f9" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+⭐ Clean & Professional Caption
 
-Currently, two official plugins are available:
+Mazel One — A Modern Creative Agency Website Built with React & Bootstrap
+A fully responsive, elegant, and visually rich single-page UI featuring smooth sections like Hero, Team, Skills, Services, and Contact. Designed for creatives, developers, and agencies.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+🎨 Stylish & Aesthetic Caption
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Mazel One — Where Minimal Design Meets Clean UI
+A beautifully crafted React website showcasing strong visuals, modern layouts, and pixel-perfect components.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 Tech-Focused Caption
+
+Mazel One — React + Bootstrap Landing Page Template
+Component-based architecture, optimized assets, fast performance, and clean code. Perfect for portfolio & agency sites.
+
+
+💼 Portfolio-Friendly Caption
+
+Mazel One — A Sleek Portfolio & Agency Template
+Built in React using modular components like Navbar, Slider, Skills, Team, Services, and Contact. Fully customizable and responsive.
+
+
+🔥 High-Impact GitHub Caption
+
+Mazel One — A Premium Frontend Template for Creative Agencies
+Modern design • Responsive layout • Smooth UI • Clean folder structure • Built with React, Bootstrap & Vite.
+
+
+📦 Want a full README section?
+Here is a full header section you can paste directly:
+# 🌟 Mazel One – Creative Agency React Template
+
+Mazel One is a clean, modern, and responsive **React + Bootstrap** website template designed for creative agencies, freelancers, and portfolios.  
+It features a stylish hero section, team showcase, skills timeline, services, and a working contact layout — all built using modular React components.
+
+✨ **Tech Used:** React • Bootstrap • Vite  
+🎨 **Features:** Responsive UI • Modern Typography • Component-Based Structure  
+📁 **Clean Codebase:** `/Components` folder with reusable JSX files
+
+
+If you want, I can also generate:
+✅ Full README
+✅ Feature list
+✅ Installation steps
+✅ Screenshots section (with captions)
+✅ Badges (React, Vite, Bootstrap, etc.)
