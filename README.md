@@ -1,5 +1,4 @@
-<img width="1920" height="3917" alt="image" src="https://github.com/user-attachments/assets/cbdcfae4-a53c-4f5c-9200-8aefcb7dbc47" /><img width="1920" height="3917" alt="image" src="https://github.com/user-attachments/assets/829cc538-a25e-49ba-929b-b7a1a7f400f9" />
-
+<img width="1920" height="3917" alt="image" src="https://github.com/user-attachments/assets/cbdcfae4-a53c-4f5c-9200-8aefcb7dbc47" />
 ⭐ Clean & Professional Caption
 
 Mazel One — A Modern Creative Agency Website Built with React & Bootstrap
